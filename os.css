@@ -1,0 +1,12 @@
+#skills {
+  font-size: 1.1rem;
+  color: rgb(124, 120, 120);
+}
+#logo {
+  max-width: 26rem;
+  margin-right: auto;
+  align-items:top;
+}
+p {
+  line-height: 2.2rem;
+}
