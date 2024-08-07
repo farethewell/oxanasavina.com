@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: "Manrope", sans-serif;
+  font-family: "Manrope", sans-serif !important;
 }
 
 #logo {
@@ -20,7 +20,7 @@ body {
   line-height: 3rem;
   font-weight: 200;
   color: rgb(95, 94, 94);
-  font-family: "Manrope", sans-serif;
+  font-family: "Manrope", sans-serif !important;
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
@@ -38,7 +38,7 @@ h1 {
 }
 
 .manrope {
-  font-family: "Manrope", sans-serif;
+  font-family: "Manrope", sans-serif !important;
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
