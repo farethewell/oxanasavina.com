@@ -1,12 +1,41 @@
 #skills {
-  font-size: 1.1rem;
-  color: rgb(124, 120, 120);
+  font-size: 0.9rem;
+  line-height: 1.75rem;
+  font-weight: 200;
+  color: rgb(95, 94, 94);
 }
+
 #logo {
   max-width: 26rem;
   margin-right: auto;
-  align-items:top;
+  align-items: top;
 }
+
+#intro {
+  font-size: 2rem;
+  line-height: 3rem;
+  font-weight: 200;
+  color: rgb(95, 94, 94);
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
 p {
-  line-height: 2.2rem;
+  line-height: 2rem;
+  font-size: 1.1rem;
+}
+
+h1 {
+  line-height: 3.5rem;
+  font-size: 3rem;
+
+}
+
+.manrope {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
 }
